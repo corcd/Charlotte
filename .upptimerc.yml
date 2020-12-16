@@ -15,6 +15,9 @@ sites:
   - name: Secret Site
     url: $SECRET_SITE
 
+assignees:
+  - corcd
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: charlotte.corcd.xyz
