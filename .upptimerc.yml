@@ -4,16 +4,12 @@ repo: charlotte # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Corcd Blog
+    url: https://www.corcd.xyz
+  - name: Guangdianyun
+    url: https://www.guangdianyun.tv
+  - name: Guangdianyun Consoles
+    url: https://consoles.guangdianyun.tv
 
 assignees:
   - corcd
@@ -25,13 +21,12 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Charlotte
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data
+  introTitle: "**Charlotte** is a uptime monitor"
+  introMessage: Powered by GitHub Actions
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
