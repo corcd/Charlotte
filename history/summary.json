@@ -40,18 +40,19 @@
     "url": "https://consoles.guangdianyun.tv",
     "icon": "https://favicons.githubusercontent.com/consoles.guangdianyun.tv",
     "slug": "guangdianyun-consoles",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "97.79%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 1631,
-    "timeDay": 1738,
+    "timeDay": 1597,
     "timeWeek": 1631,
     "timeMonth": 1631,
     "timeYear": 1631,
     "dailyMinutesDown": {
+      "2020-12-23": 0,
       "2020-12-22": 32
     }
   }
