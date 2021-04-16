@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2021-04-16": 1016,
+      "2021-04-16": 1041,
       "2021-04-15": 1440,
       "2021-04-14": 1440,
       "2021-04-13": 1440,
@@ -122,7 +122,7 @@
     "url": "https://consoles.guangdianyun.tv",
     "icon": "https://favicons.githubusercontent.com/consoles.guangdianyun.tv",
     "slug": "guangdianyun-consoles",
-    "status": "up",
+    "status": "down",
     "uptime": "98.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
