@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.corcd.xyz",
     "slug": "corcd-blog",
     "status": "down",
-    "uptime": "27.97%",
+    "uptime": "27.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "27.97%",
+    "uptimeYear": "27.96%",
     "time": 498,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2021-05-24": 574,
+      "2021-05-24": 599,
       "2021-05-23": 1440,
       "2021-05-22": 1440,
       "2021-05-21": 1440,
@@ -165,12 +165,12 @@
     "url": "https://consoles.guangdianyun.tv",
     "icon": "https://favicons.githubusercontent.com/consoles.guangdianyun.tv",
     "slug": "guangdianyun-consoles",
-    "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "93.02%",
+    "status": "down",
+    "uptime": "98.74%",
+    "uptimeDay": "93.01%",
     "uptimeWeek": "98.14%",
     "uptimeMonth": "97.32%",
-    "uptimeYear": "98.73%",
+    "uptimeYear": "98.74%",
     "time": 2369,
     "timeDay": 2564,
     "timeWeek": 1895,
@@ -229,8 +229,7 @@
       "2021-02-05": 19,
       "2021-02-04": 69,
       "2021-02-03": 69,
-      "2021-02-02": 113,
-      "2021-02-01": 32
+      "2021-02-02": 113
     }
   }
 ]
