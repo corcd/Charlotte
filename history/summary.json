@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2021-07-10": 178,
+      "2021-07-10": 202,
       "2021-07-09": 1440,
       "2021-07-08": 1440,
       "2021-07-07": 1440,
@@ -185,9 +185,9 @@
     "url": "https://www.guangdianyun.tv",
     "icon": "https://favicons.githubusercontent.com/www.guangdianyun.tv",
     "slug": "guangdianyun",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "87.07%",
+    "uptimeDay": "87.06%",
     "uptimeWeek": "87.58%",
     "uptimeMonth": "96.99%",
     "uptimeYear": "99.38%",
@@ -197,6 +197,7 @@
     "timeMonth": 2278,
     "timeYear": 1509,
     "dailyMinutesDown": {
+      "2021-07-10": 0,
       "2021-07-09": 186,
       "2021-07-06": 195,
       "2021-07-05": 832,
@@ -223,9 +224,9 @@
     "slug": "guangdianyun-consoles",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "81.11%",
-    "uptimeWeek": "95.36%",
-    "uptimeMonth": "97.47%",
+    "uptimeDay": "81.78%",
+    "uptimeWeek": "95.45%",
+    "uptimeMonth": "97.49%",
     "uptimeYear": "98.88%",
     "time": 2266,
     "timeDay": 1543,
@@ -233,7 +234,7 @@
     "timeMonth": 1864,
     "timeYear": 2266,
     "dailyMinutesDown": {
-      "2021-07-10": 129,
+      "2021-07-10": 119,
       "2021-07-09": 144,
       "2021-07-08": 22,
       "2021-07-07": 44,
@@ -287,7 +288,7 @@
       "2021-04-26": 24,
       "2021-04-24": 48,
       "2021-04-22": 27,
-      "2021-03-17": 20
+      "2021-03-17": 37
     }
   }
 ]
