@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.corcd.xyz",
     "slug": "corcd-blog",
     "status": "down",
-    "uptime": "20.22%",
+    "uptime": "20.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "20.22%",
+    "uptimeYear": "20.21%",
     "time": 498,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2021-07-24": 317,
+      "2021-07-24": 469,
       "2021-07-23": 1440,
       "2021-07-22": 1440,
       "2021-07-21": 1440,
@@ -199,15 +199,15 @@
     "url": "https://www.guangdianyun.tv",
     "icon": "https://favicons.githubusercontent.com/www.guangdianyun.tv",
     "slug": "guangdianyun",
-    "status": "up",
-    "uptime": "98.71%",
-    "uptimeDay": "90.86%",
-    "uptimeWeek": "86.58%",
+    "status": "down",
+    "uptime": "98.72%",
+    "uptimeDay": "94.57%",
+    "uptimeWeek": "86.68%",
     "uptimeMonth": "91.23%",
-    "uptimeYear": "98.71%",
+    "uptimeYear": "98.72%",
     "time": 2304,
-    "timeDay": 3326,
-    "timeWeek": 3882,
+    "timeDay": 2729,
+    "timeWeek": 3893,
     "timeMonth": 3501,
     "timeYear": 2304,
     "dailyMinutesDown": {
@@ -234,8 +234,7 @@
       "2021-06-29": 67,
       "2021-06-09": 30,
       "2021-05-29": 114,
-      "2021-05-28": 72,
-      "2021-05-23": 23
+      "2021-05-28": 72
     }
   },
   {
@@ -243,15 +242,15 @@
     "url": "https://consoles.guangdianyun.tv",
     "icon": "https://favicons.githubusercontent.com/consoles.guangdianyun.tv",
     "slug": "guangdianyun-consoles",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "94.54%",
-    "uptimeWeek": "85.24%",
-    "uptimeMonth": "92.67%",
-    "uptimeYear": "98.98%",
+    "status": "down",
+    "uptime": "98.99%",
+    "uptimeDay": "94.53%",
+    "uptimeWeek": "85.45%",
+    "uptimeMonth": "92.71%",
+    "uptimeYear": "98.99%",
     "time": 2230,
-    "timeDay": 1939,
-    "timeWeek": 2276,
+    "timeDay": 1635,
+    "timeWeek": 2280,
     "timeMonth": 1991,
     "timeYear": 2230,
     "dailyMinutesDown": {
@@ -277,8 +276,7 @@
       "2021-07-03": 25,
       "2021-07-02": 72,
       "2021-07-01": 59,
-      "2021-06-29": 36,
-      "2021-06-28": 20
+      "2021-06-29": 36
     }
   }
 ]
