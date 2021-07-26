@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2021-07-26": 534,
+      "2021-07-26": 623,
       "2021-07-25": 1440,
       "2021-07-24": 1440,
       "2021-07-23": 1440,
@@ -201,18 +201,19 @@
     "url": "https://www.guangdianyun.tv",
     "icon": "https://favicons.githubusercontent.com/www.guangdianyun.tv",
     "slug": "guangdianyun",
-    "status": "up",
-    "uptime": "98.76%",
-    "uptimeDay": "97.45%",
+    "status": "down",
+    "uptime": "98.78%",
+    "uptimeDay": "97.44%",
     "uptimeWeek": "86.97%",
-    "uptimeMonth": "90.96%",
-    "uptimeYear": "98.76%",
+    "uptimeMonth": "91.12%",
+    "uptimeYear": "98.78%",
     "time": 2333,
-    "timeDay": 2996,
+    "timeDay": 2938,
     "timeWeek": 3603,
     "timeMonth": 3529,
     "timeYear": 2333,
     "dailyMinutesDown": {
+      "2021-07-26": 0,
       "2021-07-25": 93,
       "2021-07-24": 43,
       "2021-07-23": 136,
@@ -233,8 +234,7 @@
       "2021-07-06": 195,
       "2021-07-05": 832,
       "2021-07-04": 16,
-      "2021-07-03": 22,
-      "2021-06-29": 67
+      "2021-07-03": 22
     }
   },
   {
@@ -243,18 +243,18 @@
     "icon": "https://favicons.githubusercontent.com/consoles.guangdianyun.tv",
     "slug": "guangdianyun-consoles",
     "status": "up",
-    "uptime": "99.00%",
-    "uptimeDay": "93.37%",
-    "uptimeWeek": "85.05%",
-    "uptimeMonth": "92.72%",
-    "uptimeYear": "99.00%",
+    "uptime": "98.99%",
+    "uptimeDay": "95.48%",
+    "uptimeWeek": "85.15%",
+    "uptimeMonth": "92.66%",
+    "uptimeYear": "98.99%",
     "time": 2224,
-    "timeDay": 1674,
-    "timeWeek": 2144,
+    "timeDay": 1739,
+    "timeWeek": 2147,
     "timeMonth": 1984,
     "timeYear": 2224,
     "dailyMinutesDown": {
-      "2021-07-26": 33,
+      "2021-07-26": 24,
       "2021-07-25": 132,
       "2021-07-24": 24,
       "2021-07-23": 185,
@@ -275,7 +275,8 @@
       "2021-07-07": 44,
       "2021-07-05": 51,
       "2021-07-04": 79,
-      "2021-07-03": 25
+      "2021-07-03": 25,
+      "2021-07-02": 35
     }
   }
 ]
