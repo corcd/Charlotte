@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.corcd.xyz",
     "slug": "corcd-blog",
     "status": "down",
-    "uptime": "19.53%",
+    "uptime": "19.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "19.53%",
+    "uptimeYear": "19.52%",
     "time": 498,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2021-08-01": 0,
+      "2021-08-01": 76,
       "2021-07-31": 1440,
       "2021-07-30": 1440,
       "2021-07-29": 1440,
@@ -209,9 +209,9 @@
     "slug": "guangdianyun",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "93.83%",
-    "uptimeWeek": "97.13%",
-    "uptimeMonth": "93.14%",
+    "uptimeDay": "94.44%",
+    "uptimeWeek": "97.22%",
+    "uptimeMonth": "93.12%",
     "uptimeYear": "99.08%",
     "time": 2356,
     "timeDay": 2745,
@@ -219,8 +219,7 @@
     "timeMonth": 3512,
     "timeYear": 2356,
     "dailyMinutesDown": {
-      "2021-08-01": 0,
-      "2021-07-31": 89,
+      "2021-07-31": 80,
       "2021-07-28": 76,
       "2021-07-26": 33,
       "2021-07-25": 93,
@@ -239,7 +238,7 @@
       "2021-07-12": 124,
       "2021-07-11": 256,
       "2021-07-10": 268,
-      "2021-07-09": 166
+      "2021-07-09": 186
     }
   },
   {
