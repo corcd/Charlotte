@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.corcd.xyz",
     "slug": "corcd-blog",
     "status": "down",
-    "uptime": "18.16%",
+    "uptime": "18.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "18.16%",
+    "uptimeYear": "18.15%",
     "time": 498,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2021-08-18": 237,
+      "2021-08-18": 320,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
       "2021-08-15": 1440,
@@ -224,18 +224,19 @@
     "url": "https://www.guangdianyun.tv",
     "icon": "https://favicons.githubusercontent.com/www.guangdianyun.tv",
     "slug": "guangdianyun",
-    "status": "up",
-    "uptime": "99.11%",
+    "status": "down",
+    "uptime": "99.12%",
     "uptimeDay": "98.58%",
     "uptimeWeek": "97.37%",
     "uptimeMonth": "94.22%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.12%",
     "time": 2543,
     "timeDay": 4633,
     "timeWeek": 4057,
     "timeMonth": 3628,
     "timeYear": 2543,
     "dailyMinutesDown": {
+      "2021-08-18": 0,
       "2021-08-17": 20,
       "2021-08-16": 79,
       "2021-08-15": 19,
@@ -266,7 +267,7 @@
       "2021-07-17": 216,
       "2021-07-16": 231,
       "2021-07-15": 84,
-      "2021-07-14": 63
+      "2021-07-14": 39
     }
   },
   {
@@ -275,18 +276,17 @@
     "icon": "https://favicons.githubusercontent.com/consoles.guangdianyun.tv",
     "slug": "guangdianyun-consoles",
     "status": "up",
-    "uptime": "99.12%",
-    "uptimeDay": "97.65%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "94.22%",
-    "uptimeYear": "99.12%",
+    "uptime": "99.11%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "94.24%",
+    "uptimeYear": "99.11%",
     "time": 2201,
     "timeDay": 1725,
     "timeWeek": 2096,
     "timeMonth": 2102,
     "timeYear": 2201,
     "dailyMinutesDown": {
-      "2021-08-18": 9,
       "2021-08-17": 25,
       "2021-08-15": 22,
       "2021-08-11": 24,
@@ -313,7 +313,8 @@
       "2021-07-17": 89,
       "2021-07-16": 234,
       "2021-07-15": 154,
-      "2021-07-14": 103
+      "2021-07-14": 103,
+      "2021-07-12": 26
     }
   }
 ]
