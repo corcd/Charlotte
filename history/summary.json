@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.corcd.xyz",
     "slug": "corcd-blog",
     "status": "down",
-    "uptime": "16.81%",
+    "uptime": "16.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "16.81%",
+    "uptimeYear": "16.80%",
     "time": 498,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2021-09-06": 1167,
+      "2021-09-06": 1313,
       "2021-09-05": 1440,
       "2021-09-04": 1440,
       "2021-09-03": 1440,
@@ -243,15 +243,15 @@
     "url": "https://www.guangdianyun.tv",
     "icon": "https://favicons.githubusercontent.com/www.guangdianyun.tv",
     "slug": "guangdianyun",
-    "status": "up",
-    "uptime": "99.21%",
+    "status": "down",
+    "uptime": "99.22%",
     "uptimeDay": "96.41%",
     "uptimeWeek": "97.19%",
     "uptimeMonth": "97.65%",
-    "uptimeYear": "99.21%",
+    "uptimeYear": "99.22%",
     "time": 2611,
     "timeDay": 2448,
-    "timeWeek": 2936,
+    "timeWeek": 2929,
     "timeMonth": 3275,
     "timeYear": 2611,
     "dailyMinutesDown": {
@@ -294,7 +294,7 @@
       "2021-07-23": 136,
       "2021-07-22": 355,
       "2021-07-21": 383,
-      "2021-07-20": 144
+      "2021-07-20": 113
     }
   },
   {
@@ -304,9 +304,9 @@
     "slug": "guangdianyun-consoles",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "95.34%",
-    "uptimeWeek": "98.42%",
-    "uptimeMonth": "98.63%",
+    "uptimeDay": "95.99%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "98.66%",
     "uptimeYear": "99.21%",
     "time": 2231,
     "timeDay": 6593,
@@ -314,7 +314,7 @@
     "timeMonth": 2428,
     "timeYear": 2231,
     "dailyMinutesDown": {
-      "2021-09-06": 66,
+      "2021-09-06": 57,
       "2021-09-05": 24,
       "2021-09-04": 15,
       "2021-09-01": 53,
@@ -348,7 +348,8 @@
       "2021-07-20": 232,
       "2021-07-19": 37,
       "2021-07-18": 21,
-      "2021-07-17": 89
+      "2021-07-17": 89,
+      "2021-07-16": 19
     }
   }
 ]
