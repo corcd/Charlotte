@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.corcd.xyz",
     "slug": "corcd-blog",
     "status": "down",
-    "uptime": "15.91%",
+    "uptime": "15.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "15.91%",
+    "uptimeYear": "15.90%",
     "time": 498,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2021-09-21": 1140,
+      "2021-09-21": 1167,
       "2021-09-20": 1440,
       "2021-09-19": 1440,
       "2021-09-18": 1440,
@@ -258,15 +258,15 @@
     "url": "https://www.guangdianyun.tv",
     "icon": "https://favicons.githubusercontent.com/www.guangdianyun.tv",
     "slug": "guangdianyun",
-    "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "51.84%",
-    "uptimeWeek": "62.87%",
-    "uptimeMonth": "91.20%",
-    "uptimeYear": "99.04%",
+    "status": "down",
+    "uptime": "99.06%",
+    "uptimeDay": "51.83%",
+    "uptimeWeek": "63.04%",
+    "uptimeMonth": "91.37%",
+    "uptimeYear": "99.06%",
     "time": 2988,
-    "timeDay": 5609,
-    "timeWeek": 3848,
+    "timeDay": 5531,
+    "timeWeek": 3855,
     "timeMonth": 3643,
     "timeYear": 2988,
     "dailyMinutesDown": {
@@ -277,7 +277,7 @@
       "2021-09-17": 520,
       "2021-09-16": 582,
       "2021-09-15": 421,
-      "2021-09-14": 177
+      "2021-09-14": 103
     }
   },
   {
@@ -287,9 +287,9 @@
     "slug": "guangdianyun-consoles",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "50.44%",
-    "uptimeWeek": "68.43%",
-    "uptimeMonth": "91.95%",
+    "uptimeDay": "51.09%",
+    "uptimeWeek": "68.52%",
+    "uptimeMonth": "91.90%",
     "uptimeYear": "99.12%",
     "time": 2213,
     "timeDay": 2795,
@@ -297,14 +297,14 @@
     "timeMonth": 2227,
     "timeYear": 2213,
     "dailyMinutesDown": {
-      "2021-09-21": 653,
+      "2021-09-21": 644,
       "2021-09-20": 350,
       "2021-09-19": 325,
       "2021-09-18": 550,
       "2021-09-17": 414,
       "2021-09-16": 592,
       "2021-09-15": 247,
-      "2021-09-14": 400
+      "2021-09-14": 430
     }
   }
 ]
