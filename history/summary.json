@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2021-09-25": 938,
+      "2021-09-25": 950,
       "2021-09-24": 1440,
       "2021-09-23": 1440,
       "2021-09-22": 1440,
@@ -262,26 +262,26 @@
     "url": "https://www.guangdianyun.tv",
     "icon": "https://favicons.githubusercontent.com/www.guangdianyun.tv",
     "slug": "guangdianyun",
-    "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "60.81%",
-    "uptimeWeek": "60.96%",
-    "uptimeMonth": "91.02%",
-    "uptimeYear": "99.03%",
+    "status": "down",
+    "uptime": "99.04%",
+    "uptimeDay": "61.48%",
+    "uptimeWeek": "61.15%",
+    "uptimeMonth": "91.06%",
+    "uptimeYear": "99.04%",
     "time": 3184,
     "timeDay": 5252,
     "timeWeek": 4775,
     "timeMonth": 3944,
     "timeYear": 3184,
     "dailyMinutesDown": {
-      "2021-09-25": 396,
+      "2021-09-25": 397,
       "2021-09-24": 580,
       "2021-09-23": 620,
       "2021-09-22": 617,
       "2021-09-21": 652,
       "2021-09-20": 492,
       "2021-09-19": 562,
-      "2021-09-18": 20
+      "2021-09-18": 1
     }
   },
   {
@@ -289,12 +289,12 @@
     "url": "https://consoles.guangdianyun.tv",
     "icon": "https://favicons.githubusercontent.com/consoles.guangdianyun.tv",
     "slug": "guangdianyun-consoles",
-    "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "55.94%",
+    "status": "down",
+    "uptime": "99.04%",
+    "uptimeDay": "56.61%",
     "uptimeWeek": "61.99%",
-    "uptimeMonth": "90.99%",
-    "uptimeYear": "99.03%",
+    "uptimeMonth": "91.04%",
+    "uptimeYear": "99.04%",
     "time": 2239,
     "timeDay": 2262,
     "timeWeek": 2587,
@@ -308,7 +308,7 @@
       "2021-09-21": 709,
       "2021-09-20": 350,
       "2021-09-19": 325,
-      "2021-09-18": 227
+      "2021-09-18": 208
     }
   }
 ]
