@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.corcd.xyz",
     "slug": "corcd-blog",
     "status": "down",
-    "uptime": "15.43%",
+    "uptime": "15.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "15.43%",
+    "uptimeYear": "15.42%",
     "time": 498,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2021-09-30": 607,
+      "2021-09-30": 735,
       "2021-09-29": 1440,
       "2021-09-28": 1440,
       "2021-09-27": 1440,
@@ -267,15 +267,15 @@
     "url": "https://www.guangdianyun.tv",
     "icon": "https://favicons.githubusercontent.com/www.guangdianyun.tv",
     "slug": "guangdianyun",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "97.54%",
-    "uptimeWeek": "77.52%",
-    "uptimeMonth": "91.19%",
-    "uptimeYear": "99.07%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "78.23%",
+    "uptimeMonth": "91.25%",
+    "uptimeYear": "99.08%",
     "time": 3228,
     "timeDay": 7881,
-    "timeWeek": 4374,
+    "timeWeek": 4174,
     "timeMonth": 3990,
     "timeYear": 3228,
     "dailyMinutesDown": {
@@ -289,7 +289,7 @@
       "2021-09-23": 620,
       "2021-09-22": 617,
       "2021-09-21": 652,
-      "2021-09-20": 97
+      "2021-09-20": 71
     }
   },
   {
@@ -298,18 +298,17 @@
     "icon": "https://favicons.githubusercontent.com/consoles.guangdianyun.tv",
     "slug": "guangdianyun-consoles",
     "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "80.08%",
-    "uptimeMonth": "90.78%",
-    "uptimeYear": "99.03%",
+    "uptime": "99.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "81.38%",
+    "uptimeMonth": "90.76%",
+    "uptimeYear": "99.02%",
     "time": 2226,
     "timeDay": 1750,
-    "timeWeek": 2289,
+    "timeWeek": 2291,
     "timeMonth": 2238,
     "timeYear": 2226,
     "dailyMinutesDown": {
-      "2021-09-30": 14,
       "2021-09-29": 17,
       "2021-09-27": 142,
       "2021-09-26": 291,
@@ -319,7 +318,7 @@
       "2021-09-22": 626,
       "2021-09-21": 709,
       "2021-09-20": 350,
-      "2021-09-19": 27
+      "2021-09-19": 54
     }
   }
 ]
