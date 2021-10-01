@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.corcd.xyz",
     "slug": "corcd-blog",
     "status": "down",
-    "uptime": "15.38%",
+    "uptime": "15.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "15.38%",
+    "uptimeYear": "15.37%",
     "time": 498,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2021-10-01": 584,
+      "2021-10-01": 697,
       "2021-09-30": 1440,
       "2021-09-29": 1440,
       "2021-09-28": 1440,
@@ -270,17 +270,17 @@
     "slug": "guangdianyun",
     "status": "up",
     "uptime": "99.10%",
-    "uptimeDay": "92.92%",
-    "uptimeWeek": "82.72%",
-    "uptimeMonth": "91.45%",
+    "uptimeDay": "93.65%",
+    "uptimeWeek": "83.35%",
+    "uptimeMonth": "91.41%",
     "uptimeYear": "99.10%",
     "time": 3258,
     "timeDay": 8547,
-    "timeWeek": 4721,
+    "timeWeek": 4750,
     "timeMonth": 4050,
     "timeYear": 3258,
     "dailyMinutesDown": {
-      "2021-10-01": 28,
+      "2021-10-01": 17,
       "2021-09-30": 92,
       "2021-09-29": 19,
       "2021-09-28": 20,
@@ -290,7 +290,7 @@
       "2021-09-24": 580,
       "2021-09-23": 620,
       "2021-09-22": 617,
-      "2021-09-21": 534
+      "2021-09-21": 560
     }
   },
   {
@@ -298,15 +298,15 @@
     "url": "https://consoles.guangdianyun.tv",
     "icon": "https://favicons.githubusercontent.com/consoles.guangdianyun.tv",
     "slug": "guangdianyun-consoles",
-    "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "97.57%",
-    "uptimeWeek": "86.35%",
-    "uptimeMonth": "90.80%",
-    "uptimeYear": "99.03%",
+    "status": "down",
+    "uptime": "99.04%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "86.54%",
+    "uptimeMonth": "90.85%",
+    "uptimeYear": "99.04%",
     "time": 2225,
-    "timeDay": 1795,
-    "timeWeek": 2021,
+    "timeDay": 1748,
+    "timeWeek": 1962,
     "timeMonth": 2240,
     "timeYear": 2225,
     "dailyMinutesDown": {
@@ -320,7 +320,7 @@
       "2021-09-23": 716,
       "2021-09-22": 626,
       "2021-09-21": 709,
-      "2021-09-20": 350
+      "2021-09-20": 327
     }
   }
 ]
