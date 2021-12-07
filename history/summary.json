@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.corcd.xyz",
     "slug": "corcd-blog",
     "status": "down",
-    "uptime": "12.49%",
+    "uptime": "12.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "12.49%",
+    "uptimeYear": "12.48%",
     "time": 498,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2021-12-07": 75,
+      "2021-12-07": 567,
       "2021-12-06": 1440,
       "2021-12-05": 1440,
       "2021-12-04": 1440,
@@ -335,18 +335,19 @@
     "url": "https://www.guangdianyun.tv",
     "icon": "https://favicons.githubusercontent.com/www.guangdianyun.tv",
     "slug": "guangdianyun",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.43%",
     "time": 3298,
     "timeDay": 3496,
     "timeWeek": 3178,
     "timeMonth": 3116,
     "timeYear": 3298,
     "dailyMinutesDown": {
+      "2021-12-07": 1,
       "2021-11-30": 20,
       "2021-11-28": 19,
       "2021-11-25": 15,
@@ -380,8 +381,7 @@
       "2021-09-27": 288,
       "2021-09-26": 430,
       "2021-09-25": 521,
-      "2021-09-24": 580,
-      "2021-09-23": 20
+      "2021-09-24": 580
     }
   },
   {
@@ -389,18 +389,19 @@
     "url": "https://consoles.guangdianyun.tv",
     "icon": "https://favicons.githubusercontent.com/consoles.guangdianyun.tv",
     "slug": "guangdianyun-consoles",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "95.90%",
+    "uptimeDay": "97.22%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.32%",
     "time": 2199,
-    "timeDay": 1691,
+    "timeDay": 1671,
     "timeWeek": 1811,
     "timeMonth": 1834,
     "timeYear": 2199,
     "dailyMinutesDown": {
+      "2021-12-07": 0,
       "2021-12-06": 58,
       "2021-11-25": 54,
       "2021-11-19": 24,
@@ -430,7 +431,7 @@
       "2021-09-25": 538,
       "2021-09-24": 609,
       "2021-09-23": 716,
-      "2021-09-22": 335
+      "2021-09-22": 315
     }
   }
 ]
