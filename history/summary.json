@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/www.corcd.xyz",
     "slug": "corcd-blog",
     "status": "down",
-    "uptime": "10.54%",
+    "uptime": "10.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-11": 79,
+      "2022-02-11": 982,
       "2022-02-10": 1440,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
@@ -396,7 +396,7 @@
     "uptimeYear": "99.43%",
     "time": 3323,
     "timeDay": 2969,
-    "timeWeek": 3306,
+    "timeWeek": 3236,
     "timeMonth": 3482,
     "timeYear": 3410,
     "dailyMinutesDown": {
@@ -453,18 +453,19 @@
     "url": "https://consoles.guangdianyun.tv",
     "icon": "https://favicons.githubusercontent.com/consoles.guangdianyun.tv",
     "slug": "guangdianyun-consoles",
-    "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "98.67%",
-    "uptimeYear": "99.44%",
-    "time": 2185,
-    "timeDay": 2122,
+    "uptimeYear": "99.45%",
+    "time": 2186,
+    "timeDay": 1763,
     "timeWeek": 1954,
     "timeMonth": 2046,
     "timeYear": 2166,
     "dailyMinutesDown": {
+      "2022-02-11": 0,
       "2022-02-07": 17,
       "2022-02-02": 23,
       "2022-01-18": 16,
@@ -506,7 +507,7 @@
       "2021-09-30": 19,
       "2021-09-29": 17,
       "2021-09-27": 142,
-      "2021-09-26": 291
+      "2021-09-26": 239
     }
   }
 ]
