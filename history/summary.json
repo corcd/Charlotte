@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/www.corcd.xyz",
     "slug": "corcd-blog",
     "status": "down",
-    "uptime": "10.34%",
+    "uptime": "10.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-19": 78,
+      "2022-02-20": 83,
+      "2022-02-19": 1440,
       "2022-02-18": 1440,
       "2022-02-17": 1440,
       "2022-02-16": 1440,
@@ -379,8 +380,7 @@
       "2021-02-24": 1440,
       "2021-02-23": 1440,
       "2021-02-22": 1440,
-      "2021-02-21": 1440,
-      "2021-02-20": 1440
+      "2021-02-21": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.43%",
-    "time": 3327,
-    "timeDay": 3117,
-    "timeWeek": 3691,
-    "timeMonth": 3271,
-    "timeYear": 3425,
+    "time": 3326,
+    "timeDay": 2955,
+    "timeWeek": 3526,
+    "timeMonth": 3288,
+    "timeYear": 3427,
     "dailyMinutesDown": {
       "2022-02-14": 17,
       "2022-02-03": 23,
@@ -460,10 +460,10 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.45%",
     "time": 2183,
-    "timeDay": 1693,
-    "timeWeek": 1625,
+    "timeDay": 1819,
+    "timeWeek": 1681,
     "timeMonth": 1772,
-    "timeYear": 2161,
+    "timeYear": 2160,
     "dailyMinutesDown": {
       "2022-02-11": 23,
       "2022-02-07": 17,
