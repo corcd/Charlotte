@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/www.corcd.xyz",
     "slug": "corcd-blog",
     "status": "down",
-    "uptime": "10.30%",
+    "uptime": "10.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-20": 817,
+      "2022-02-21": 75,
+      "2022-02-20": 1440,
       "2022-02-19": 1440,
       "2022-02-18": 1440,
       "2022-02-17": 1440,
@@ -379,8 +380,7 @@
       "2021-02-25": 1440,
       "2021-02-24": 1440,
       "2021-02-23": 1440,
-      "2021-02-22": 1440,
-      "2021-02-21": 1440
+      "2021-02-22": 1440
     }
   },
   {
@@ -389,18 +389,17 @@
     "icon": "https://favicons.githubusercontent.com/www.guangdianyun.tv",
     "slug": "guangdianyun",
     "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.83%",
+    "uptime": "99.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.43%",
     "time": 3326,
-    "timeDay": 3142,
-    "timeWeek": 3512,
-    "timeMonth": 3289,
-    "timeYear": 3426,
+    "timeDay": 3238,
+    "timeWeek": 3490,
+    "timeMonth": 3291,
+    "timeYear": 3428,
     "dailyMinutesDown": {
-      "2022-02-20": 9,
       "2022-02-14": 17,
       "2022-02-03": 23,
       "2022-01-21": 25,
@@ -446,7 +445,7 @@
       "2021-10-06": 49,
       "2021-10-05": 17,
       "2021-10-04": 18,
-      "2021-10-01": 15
+      "2021-10-01": 32
     }
   },
   {
@@ -455,16 +454,16 @@
     "icon": "https://favicons.githubusercontent.com/consoles.guangdianyun.tv",
     "slug": "guangdianyun-consoles",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.45%",
     "time": 2183,
-    "timeDay": 1819,
-    "timeWeek": 1681,
-    "timeMonth": 1772,
-    "timeYear": 2160,
+    "timeDay": 1876,
+    "timeWeek": 1696,
+    "timeMonth": 1768,
+    "timeYear": 2161,
     "dailyMinutesDown": {
       "2022-02-11": 23,
       "2022-02-07": 17,
