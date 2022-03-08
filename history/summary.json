@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-08": 520,
+      "2022-03-08": 717,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
       "2022-03-05": 1440,
@@ -388,10 +388,10 @@
     "url": "https://www.guangdianyun.tv",
     "icon": "https://favicons.githubusercontent.com/www.guangdianyun.tv",
     "slug": "guangdianyun",
-    "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.42%",
     "time": 3324,
@@ -400,6 +400,7 @@
     "timeMonth": 3363,
     "timeYear": 3446,
     "dailyMinutesDown": {
+      "2022-03-08": 1,
       "2022-02-28": 46,
       "2022-02-27": 35,
       "2022-02-25": 46,
@@ -445,8 +446,7 @@
       "2021-10-11": 75,
       "2021-10-10": 96,
       "2021-10-09": 19,
-      "2021-10-08": 71,
-      "2021-10-07": 25
+      "2021-10-08": 71
     }
   },
   {
