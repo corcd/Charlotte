@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/www.corcd.xyz",
     "slug": "corcd-blog",
     "status": "down",
-    "uptime": "9.71%",
+    "uptime": "9.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-19": 86,
+      "2022-03-19": 215,
       "2022-03-18": 1440,
       "2022-03-17": 1440,
       "2022-03-16": 1440,
@@ -388,10 +388,10 @@
     "url": "https://www.guangdianyun.tv",
     "icon": "https://favicons.githubusercontent.com/www.guangdianyun.tv",
     "slug": "guangdianyun",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.42%",
     "time": 3316,
@@ -400,6 +400,7 @@
     "timeMonth": 3053,
     "timeYear": 3454,
     "dailyMinutesDown": {
+      "2022-03-19": 1,
       "2022-03-09": 63,
       "2022-03-08": 31,
       "2022-02-28": 46,
@@ -445,8 +446,7 @@
       "2021-10-14": 39,
       "2021-10-13": 19,
       "2021-10-11": 75,
-      "2021-10-10": 96,
-      "2021-10-09": 19
+      "2021-10-10": 96
     }
   },
   {
@@ -454,18 +454,19 @@
     "url": "https://consoles.guangdianyun.tv",
     "icon": "https://favicons.githubusercontent.com/consoles.guangdianyun.tv",
     "slug": "guangdianyun-consoles",
-    "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "99.46%",
-    "time": 2141,
+    "uptimeYear": "99.47%",
+    "time": 2140,
     "timeDay": 1658,
     "timeWeek": 1683,
     "timeMonth": 1805,
     "timeYear": 2100,
     "dailyMinutesDown": {
+      "2022-03-19": 0,
       "2022-03-08": 16,
       "2022-03-05": 31,
       "2022-02-22": 21,
@@ -511,7 +512,7 @@
       "2021-09-30": 19,
       "2021-09-29": 17,
       "2021-09-27": 142,
-      "2021-09-26": 96
+      "2021-09-26": 78
     }
   }
 ]
